@@ -18,6 +18,7 @@ class Home extends CI_Controller {
 		$this->load->view('home/vhome');
 		$this->load->view('home/tour');
 		$this->load->view('home/footer');
+		$this->load->view('home/footer');
 	}
 
 	public function news()

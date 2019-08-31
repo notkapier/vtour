@@ -7,7 +7,7 @@
   <header>
 
     <!--Navbar-->
-<nav class="navbar navbar-expand-lg fixed-top navbar-dark red darken-4">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark red darken-4" style="z-index:99">
   <div class="container">
   <a class="navbar-brand font-weight-bold styled" href="<?php echo base_url();?>">CCSICT</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4"
@@ -72,7 +72,7 @@
     <!--/.Navbar-->
 
   </header>
-  <div class="mt-1 " >
+  <div class="mt-3 pt-5 mx-auto" >
   <div id="video-carousel-example2" class="carousel slide carousel-fade" data-ride="carousel">
   <!--Indicators-->
   <ol class="carousel-indicators">

@@ -4,7 +4,7 @@
 
   <!-- Section: Magazine v.1 -->
   <section class="magazine-section my-5">
-    <h3 class="font-weight-bold dark-grey-text my-4 styled3"><a>News and Announcements</a></h3>
+    <h3 class="h2-responsive text-danger darken-3 font-weight-bolder my-3 styled4 "><a>News and Announcements</a></h3>
 
     <!-- Section heading -->
     <!-- Section description -->

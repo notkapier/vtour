@@ -23,7 +23,7 @@
         <div class="col-md-3 mb-md-0 mb-3">
 
           <!-- Links -->
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase styled">Links</h5>
 
           <ul class="list-unstyled">
             <li>
@@ -47,11 +47,11 @@
         <div class="col-md-3 mb-md-0 mb-3">
 
           <!-- Links -->
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase styled">Links</h5>
 
           <ul class="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!" class="">Link 1</a>
             </li>
             <li>
               <a href="#!">Link 2</a>

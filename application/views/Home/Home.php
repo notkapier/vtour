@@ -1,46 +1,108 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Material Design Bootstrap</title>
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-  <!-- Bootstrap core CSS -->
-  <link href="<?php echo base_url()."assets/";?>css/bootstrap.min.css" rel="stylesheet">
-  <!-- Material Design Bootstrap -->
-  <link href="<?php echo base_url()."assets/";?>css/mdb.min.css" rel="stylesheet">
-  <!-- Your custom styles (optional) -->
-  <link href="<?php echo base_url()."assets/";?>css/style.css" rel="stylesheet">
-</head>
+<div class="container z-depth-1 p-3">
+<section class="my-5">
 
-<body>
+  <!-- Section heading -->
+  <h3 class="h1-responsive text-danger darken-3 font-weight-bolder text-center my-5 styled3 ">College of Computing Studies, Information and Communication Technology</h3>
+  <!-- Section description -->
 
-  <!-- Start your project here-->
-  <div style="height: 100vh">
-    <div class="flex-center flex-column">
+  <!-- Grid row -->
 
-      <h1 class="text-hide animated fadeIn mb-4"
-        style="background-image: url('https://mdbootstrap.com/img/logo/mdb-transparent-250px.png'); width: 250px; height: 90px;">
-        MDBootstrap</h1>
-      <h5 class="animated fadeIn mb-3">Thank you for using our product. We're glad you're with us.</h5>
 
-      <p class="animated fadeIn text-muted">MDB Team</p>
+
+
+  <div class="row">
+
+    <!-- Grid column -->
+    <div class="col-lg-5 text-center text-lg-left">
+      <img class="img-fluid" src="<?php echo base_url().'assets/img/'?>ccsict.jpg" alt="Sample image">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="col-lg-7">
+
+      <!-- Grid row -->
+      <div class="row mb-3">
+
+        <!-- Grid column -->
+        <div class="col-1">
+          
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-xl-10 col-md-11 col-10">
+          <h5 class="font-weight-bolder mb-3 styled3 " style="font-size:20px;">Computer Engineering</h5>
+          <p class="grey-text font-weight-bolder">Lorem ipsum dolor sit amet, consectetur adipisicing elit enim ad minima veniam,
+            quis nostrum exercitationem ullam. Reprehenderit maiores aperiam assumenda deleniti hic.</p>
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+      <!-- Grid row -->
+      <div class="row mb-3">
+
+        <!-- Grid column -->
+        <div class="col-1">
+         
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-xl-10 col-md-11 col-10">
+          <h5 class="font-weight-bolder mb-3 styled3 " style="font-size:20px;">Information Technology</h5>
+          <p class="grey-text font-weight-bolder">Lorem ipsum dolor sit amet, consectetur adipisicing elit enim ad minima veniam,
+            quis nostrum exercitationem ullam. Reprehenderit maiores aperiam assumenda deleniti hic.</p>
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+      <!--Grid row-->
+      <div class="row">
+
+        <!-- Grid column -->
+        <div class="col-1">
+         
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-xl-10 col-md-11 col-10">
+          <h5 class="font-weight-bolder mb-3 styled3 " style="font-size:20px;">Computer Science</h5>
+          <p class="grey-text font-weight-bolder mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit enim ad minima
+            veniam, quis nostrum exercitationem ullam. Reprehenderit maiores aperiam assumenda deleniti hic.</p>
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!--Grid row-->
+
+    </div>
+    <!--Grid column-->
+
+  </div>
+  <!-- Grid row -->
+
+<div class="container p-5">
+<div class="darken-2">
+  <div class="text-red text-center px-4">
+    <div>
+      <h3 class="h1-responsive text-danger darken-3 font-weight-bolder text-center styled3">Take a Tour!</h3>
+      <p class="mx-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat fugiat, laboriosam, voluptatem,
+        optio vero odio nam sit officia accusamus minus error nisi architecto nulla ipsum dignissimos. Odit sed qui, dolorum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat fugiat, laboriosam, voluptatem,
+        optio vero odio nam sit officia accusamus minus error nisi architecto nulla ipsum dignissimos. Odit sed qui, dolorum!
+      </p>
+      <a class="btn btn-outline-red btn-md"><i class="fas fa-clone left"></i> Virtual Tour</a>
     </div>
   </div>
-  <!-- Start your project here-->
+</div>
+</div>
+</section>
 
-  <!-- SCRIPTS -->
-  <!-- JQuery -->
-  <script type="text/javascript" src="<?php echo base_url('assets/');?>js/jquery-3.4.1.min.js"></script>
-  <!-- Bootstrap tooltips -->
-  <script type="text/javascript" src="<?php echo base_url('assets/');?>js/popper.min.js"></script>
-  <!-- Bootstrap core JavaScript -->
-  <script type="text/javascript" src="<?php echo base_url('assets/');?>js/bootstrap.min.js"></script>
-  <!-- MDB core JavaScript -->
-  <script type="text/javascript" src="<?php echo base_url('assets/');?>js/mdb.min.js"></script>
-</body>
 
-</html>
+</div>

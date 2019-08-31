@@ -26,6 +26,9 @@
     .styled3 {
       text-shadow: rgb(179, 179, 179) 0px 0px 0px, rgb(188, 188, 188) 1px 1px 0px, rgb(198, 198, 198) 2px 2px 0px, rgb(207, 207, 207) 1px 1px 0px, rgb(217, 217, 217) 1px 1px 0px, rgb(226, 226, 226) 1px 1px 0px, rgb(236, 236, 236) 1px 1px 0px, rgb(245, 245, 245) 1px 1px 0px; font-size: 5vh;"
     }
+    .styled4 {
+      text-shadow: rgb(179, 179, 179) 0px 0px 0px, rgb(188, 188, 188) 1px 1px 0px, rgb(198, 198, 198) 1px 1px 0px, rgb(207, 207, 207) 1px 1px 0px, rgb(217, 217, 217) 1px 1px 0px, rgb(226, 226, 226) 1px 1px 0px, rgb(236, 236, 236) 1px 1px 0px, rgb(245, 245, 245) 1px 1px 0px;"
+    }
   </style>
 </head>
 

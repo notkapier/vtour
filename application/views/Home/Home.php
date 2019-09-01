@@ -1,9 +1,9 @@
 
 <div class="container z-depth-1 p-3">
-<section class="my-5">
+<section class="my-5 ">
 
   <!-- Section heading -->
-  <h3 class="h1-responsive text-danger darken-3 font-weight-bolder text-center my-5 styled4 ">College of Computing Studies, Information and Communication Technology</h3>
+  <h3 class="h1-responsive text-danger darken-3 font-weight-bolder text-center my-5 styled4  animate slideOutDown slow">College of Computing Studies, Information and Communication Technology</h3>
   <!-- Section description -->
 
   <!-- Grid row -->
@@ -15,7 +15,7 @@
 
     <!-- Grid column -->
     <div class="col-lg-5 text-center text-lg-left">
-      <img class="img-fluid" src="<?php echo base_url().'assets/img/'?>ccsict.jpg" alt="Sample image">
+      <img class="img-fluid  " src="<?php echo base_url().'assets/img/'?>ccsict.jpg" alt="Sample image">
     </div>
     <!-- Grid column -->
 
